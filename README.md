@@ -1,6 +1,5 @@
 # Computer Science Learning  
-This repository contains notes and solutions for various courses and assignments  
-in Computer Science.   
+This repository contains notes and solutions for various CS courses and assignments.  
   
 ## Introduction to CS  
 | Type | Course | Link | Notes/Solutions |
