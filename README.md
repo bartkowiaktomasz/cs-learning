@@ -16,3 +16,8 @@ This repository contains notes and solutions for various CS courses and assignme
 | Type | Course | Link | Notes/Solutions |  
 | -- | -- | -- |  -- |
 | Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Link](https://github.com/bartkowiaktomasz/cs-learning/tree/master/UCL%26DeepMind%20COMPM050:%20Reinforcement%20Learning)
+
+## Mathematics
+| Type | Course | Link | Notes/Solutions |  
+| -- | -- | -- |  -- |
+| Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Link]()
