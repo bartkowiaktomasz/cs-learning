@@ -20,4 +20,4 @@ This repository contains notes and solutions for various CS courses and assignme
 ## Mathematics
 | Type | Course | Link | Notes/Solutions |  
 | -- | -- | -- |  -- |
-| Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Link]()
+| Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Link](https://github.com/bartkowiaktomasz/cs-learning/tree/master/MIT%2018.06%20-%20Linear%20Algebra)
