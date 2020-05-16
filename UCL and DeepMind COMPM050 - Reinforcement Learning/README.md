@@ -4,3 +4,6 @@ Course by David Silver
 ### [Notes](UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf)
 ### [Assignment: Easy21](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
 > The goal of this assignment is to apply reinforcement learning methods to a simple card game that we call Easy21.
+
+#### Value function from Monte Carlo Control
+![Value function](./easy21/value_function.png)
