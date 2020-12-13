@@ -22,7 +22,7 @@ This repository contains notes and solutions for various CS courses and assignme
 | Type | Course | Link | Notes/Solutions |  
 | -- | -- | -- |  -- |
 | Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](
-https://github.com/bartkowiaktomasz/cs-learning/blob/master/UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf) [Solutions][UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning]
+https://github.com/bartkowiaktomasz/cs-learning/blob/master/UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf) [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning)
 
 
 ## Mathematics
