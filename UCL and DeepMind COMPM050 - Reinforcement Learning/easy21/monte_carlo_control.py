@@ -5,11 +5,11 @@ example in Sutton and Barto 5.3 – please note, however, that the rules of the
 card game are different and non-standard.
 """
 from collections import defaultdict
-from typing import Tuple
 
 import numpy as np
 
-from environment import step
+from environment import step, draw_initial_state
+from reinforcement_learning_algorithm import ReinforcementLearningAlgorithm
 from viz import plot_v
 
 # Q2: Monte-Carlo Control in Easy21
@@ -25,7 +25,7 @@ following figure taken from Sutton and Barto’s Blackjack example.
 """
 
 
-class MonteCarloControl:
+class MonteCarloControl(ReinforcementLearningAlgorithm):
     """
     Algorithm for finding an optimal policy by using Monte Carlo
     control method
@@ -37,26 +37,13 @@ class MonteCarloControl:
         self.N_sa = defaultdict(int)  # Number of times action a has been selected from state s
         self.q = defaultdict(int)  # Action-value function
 
-    def pick_action(self, s):
-        eps = self.N0 / (self.N0 + self.N_s[s])
-        if np.random.random_sample(1) > eps:
-            if self.q[(s, 'stick')] > self.q[(s, 'hit')]:
-                a = 'stick'
-            elif self.q[(s, 'stick')] < self.q[(s, 'hit')]:
-                a = 'hit'
-            else:
-                a = np.random.choice(['stick', 'hit'], p=[0.5, 0.5])
-        else:
-            a = np.random.choice(['stick', 'hit'], p=[0.5, 0.5])
-        return a
-
     def run(self, n_episodes: int):
         for i in range(n_episodes):
             is_terminal = False
             episode_trajectory = list()
-            s0 = MonteCarloControl._draw_initial_state()
+            s0 = draw_initial_state()
             while not is_terminal:
-                a = self.pick_action(s0)
+                a = self.pick_action_eps_greedy(s0)
                 s, r, is_terminal = step(s0, a)
                 episode_trajectory.append((s0, a, r))
                 # R_sa[(s0, a)].append(r)
@@ -67,28 +54,12 @@ class MonteCarloControl:
             for sar in episode_trajectory[::-1]:
                 s, a, r = sar
                 G = self.gamma * G + r
-                step_size = 1 / self.N_sa[(s, a)]
-                self.q[(s, a)] += step_size * (G - self.q[(s, a)])
-
-    def to_v(self):
-        v = dict()
-        for sa in self.q.keys():
-            s = sa[0]
-            v[s] = max(
-                self.q[(s, 'stick')],
-                self.q[(s, 'hit')]
-            )
-        return v
-
-    @staticmethod
-    def _draw_initial_state() -> Tuple[int, int]:
-        dealer = np.random.randint(1, 11)
-        player = np.random.randint(1, 11)
-        return dealer, player
+                alpha = 1 / self.N_sa[(s, a)]
+                self.q[(s, a)] += alpha * (G - self.q[(s, a)])
 
 
 n_episodes = 1000000
-mcmc = MonteCarloControl(N0=100, gamma=1)
+mcmc = MonteCarloControl(N0=100, gamma=0.8)
 mcmc.run(n_episodes)
 v = mcmc.to_v()
 plot_v(v)

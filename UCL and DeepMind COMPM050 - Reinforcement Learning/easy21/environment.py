@@ -75,3 +75,9 @@ def step(s, a) -> Tuple[Tuple[int, int], int, bool]:
             reward = -1
         is_terminal = True
     return (dealer_first_card, player_sum), reward, is_terminal
+
+
+def draw_initial_state() -> Tuple[int, int]:
+    dealer = np.random.randint(1, 11)
+    player = np.random.randint(1, 11)
+    return dealer, player

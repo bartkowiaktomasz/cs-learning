@@ -15,7 +15,7 @@ This repository contains notes and solutions for various CS courses and assignme
 ### Cloud Computing
 | Type | Course | Link | Notes/Solutions |
 | -- | -- | -- |  -- |
-| AWS  | Solutions Architect Associate | - | [Notes](AWS Certified Solutions Architect/README.md) |
+| AWS  | Solutions Architect Associate | - | [Notes](https://github.com/bartkowiaktomasz/cs-learning/tree/master/AWS%20Certified%20Solutions%20Architect) |
 
 
 
