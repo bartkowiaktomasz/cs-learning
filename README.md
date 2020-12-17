@@ -10,7 +10,7 @@ This repository contains notes and solutions for various CS courses and assignme
 ## Algorithms
 | Type | Course | Link | Notes/Solutions |
 | -- | -- | -- |  -- |
-| Algorithmic Challenges | HackerRank, Cracking the Coding Interview | [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit) | [Link](https://github.com/bartkowiaktomasz/algorithmic-challenges) |
+| Algorithmic Challenges | HackerRank, LeetCode, Cracking the Coding Interview | [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit), [LeetCode](https://leetcode.com/problemset/top-interview-questions/) | [Link](https://github.com/bartkowiaktomasz/algorithmic-challenges) |
 | Algorithms | MIT 6.006: Introduction to Algorithms | [Course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | [Notes](MIT%206%20006%20-%20Introduction%20to%20Algorithms) |
 
 
