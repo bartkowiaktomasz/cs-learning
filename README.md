@@ -11,6 +11,8 @@ This repository contains notes and solutions for various CS courses and assignme
 | Type | Course | Link | Notes/Solutions |
 | -- | -- | -- |  -- |
 | Algorithmic Challenges | HackerRank, Cracking the Coding Interview | [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit) | [Link](https://github.com/bartkowiaktomasz/algorithmic-challenges) |
+| Algorithms | MIT 6.006: Introduction to Algorithms | [Course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit) | [Notes](MIT%2018%2006%20-%20Linear%20Algebra) |
+
 
 ## Cloud Computing
 | Type | Course | Link | Notes/Solutions |
