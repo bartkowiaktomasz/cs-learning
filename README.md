@@ -2,26 +2,26 @@
 This repository contains notes and solutions for various CS courses and assignments.  
   
 ## Introduction to CS  
-| Type | Course | Link | Notes/Solutions |
+| Type | Course | Source | Notes/Solutions |
 | -- | -- | -- |  -- |
 | Computer Science Basics | HarvardX CS50: Introduction to Computer Science | [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | [Link](https://github.com/bartkowiaktomasz/harvardx-cs50) |
 | Web Programming | HarvardX CS50: Web Programming in JavaScript and Python | [edX](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | [Link](https://github.com/bartkowiaktomasz/harvardx-cs50-web-programming) |
 
 ## Algorithms
-| Type | Course | Link | Notes/Solutions |
+| Type | Course | Source | Notes/Solutions |
 | -- | -- | -- |  -- |
 | Algorithmic Challenges | HackerRank, LeetCode, Cracking the Coding Interview | [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit), [LeetCode](https://leetcode.com/problemset/top-interview-questions/) | [Link](https://github.com/bartkowiaktomasz/algorithmic-challenges) |
 | Algorithms | MIT 6.006: Introduction to Algorithms | [Course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | [Notes](MIT%206%20006%20-%20Introduction%20to%20Algorithms) |
 
 
 ## Cloud Computing
-| Type | Course | Link | Notes/Solutions |
+| Type | Course | Source | Notes/Solutions |
 | -- | -- | -- |  -- |
 | AWS  | Solutions Architect Associate | - | [Notes](AWS%20Certified%20Solutions%20Architect) |
 
 
 ## Machine Learning
-| Type | Course | Link | Notes/Solutions |  
+| Type | Course | Source | Notes/Solutions |  
 | -- | -- | -- |  -- |
 | Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf) [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning)
 
