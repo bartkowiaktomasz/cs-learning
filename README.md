@@ -1,6 +1,8 @@
 # Computer Science Learning  
-This repository contains notes and solutions for various CS courses and assignments.  
-  
+This repository contains notes and solutions for various CS courses and assignments.
+
+**Note:** For best experience consider installing [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) which allows for rendering MathJax in the browser
+
 ## Introduction to CS  
 | Type | Course | Source | Notes/Solutions |
 | -- | -- | -- |  -- |
