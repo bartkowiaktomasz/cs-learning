@@ -25,7 +25,8 @@ This repository contains notes and solutions for various CS courses and assignme
 ## Machine Learning
 | Type | Course | Source | Notes/Solutions |  
 | -- | -- | -- |  -- |
-| Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf) [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning)
+| Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf), [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning)
+| Machine Learning | UBC CPSC 540: Machine Learning (Nando de Freitas) | [Youtube Playlist](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all), [Course Website](https://www.cs.ubc.ca/~nando/540-2013/lectures.html) | [Notes](UBC%20CPSC%20540%20-%20Machine%20Learning)
 
 
 ## Mathematics
