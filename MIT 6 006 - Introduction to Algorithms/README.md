@@ -416,7 +416,7 @@ e.g. *halting problem* is not in $R$, integer factorization is NP (but it's not 
 - program (computer program or algorithm) is just a binary string in the end (in memory) which we can then treat as a (huge) integer
 - decision problem is a function $f$ that maps inputs to $\{{YES, NO}\}$. We can build a table representation of this function (i.e. for each input the answer `YES` or `NO`) and so this function is just an infinite string of bits
 
-*Decision problem is an infinite string of bits (i.e. $\in \R$), whereas a program is a finite string of bits (i.e. $\in \N$). Since $|\R| >> |\N|$* it follows that most decision problems are uncomputable.
+*Decision problem is an infinite string of bits (i.e. $\in R$), whereas a program is a finite string of bits (i.e. $\in N$). Since $|R| >> |N|$* it follows that most decision problems are uncomputable.
 
 ### NP
 NP - set of decision problems solvable in polynomial time via a "lucky" algorithm (i.e. nondeterministic model) which makes "guesses" (guesses are guaranteed to a `YES` answer if possible). It's polynomial time as long as we need to make a polynomial number of guesses.
