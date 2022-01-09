@@ -32,10 +32,11 @@ This repository contains notes and solutions for various CS courses and assignme
 ## Mathematics
 | Type | Course | Link | Notes/Solutions |  
 | -- | -- | -- |  -- |
+| Introduction to Statistical Learning | | [Course website](https://www.statlearning.com/online-course), [Book (pdf)](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf), [Lectures (youtube)](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) | [Solutions (python)](https://github.com/bartkowiaktomasz/introduction-to-statistical-learning-python)
+| Mathematics for Machine Learning | | [Website](https://mml-book.github.io/), [Book (pdf)](https://mml-book.github.io/book/mml-book.pdf) | [Solutions (python)](https://github.com/bartkowiaktomasz/mathematics-for-machine-learning)
 | Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Link](MIT%2018%2006%20-%20Linear%20Algebra)
 
-
-## System Administration
+## MLOps / DevOps / System Administration
 | Type | Course | Link | Notes/Solutions |  
 | -- | -- | -- |  -- |
 | Linux Shell | HackerRank | [Course website](https://www.hackerrank.com/domains/shell) | [Link](https://github.com/bartkowiaktomasz/algorithmic-challenges/tree/master/HackerRank%20-%20Linux%20Shell)
