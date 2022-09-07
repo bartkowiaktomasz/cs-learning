@@ -25,8 +25,9 @@ This repository contains notes and solutions for various CS courses and assignme
 ## Machine Learning
 | Type | Course | Source | Notes/Solutions |  
 | -- | -- | -- |  -- |
-| Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf), [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning)
-| Machine Learning | UBC CPSC 540: Machine Learning (Nando de Freitas) | [Youtube Playlist](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all), [Course Website](https://www.cs.ubc.ca/~nando/540-2013/lectures.html) | [Notes](UBC%20CPSC%20540%20-%20Machine%20Learning)
+| Reinforcement Learning | UCL&DeepMind COMPM050: Reinforcement Learning | [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [Notes](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf), [Solutions](UCL%20and%20DeepMind%20COMPM050%20-%20Reinforcement%20Learning/UCL_Deepmind_COMPM050_Reinforcement_Learning_notes.pdf)
+| Machine Learning | UBC CPSC 540: Machine Learning (Nando de Freitas) | [Youtube Playlist](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all), [Course Website](https://www.cs.ubc.ca/~nando/540-2013/lectures.html) | [Notes](UBC%20CPSC%20540%20-%20Machine%20Learning/UBC_CPSC_540_Machine_Learning.pdf)
+| Natural Language Processing (NLP) | Stanford CS224N: NLP with Deep Learning | [Youtube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z), [Course Website](https://web.stanford.edu/class/cs224n/index.html) | [Notes](Stanford%20CS224N%20-%20NLP%20with%20Deep%20Learning/Stanford_CS224N_NLP_with_Deep_Learning_notes.pdf)
 
 
 ## Mathematics
@@ -34,7 +35,7 @@ This repository contains notes and solutions for various CS courses and assignme
 | -- | -- | -- |  -- |
 | Introduction to Statistical Learning | | [Course website](https://www.statlearning.com/online-course), [Book (pdf)](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf), [Lectures (youtube)](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) | [Solutions (python)](https://github.com/bartkowiaktomasz/introduction-to-statistical-learning-python)
 | Mathematics for Machine Learning | | [Website](https://mml-book.github.io/), [Book (pdf)](https://mml-book.github.io/book/mml-book.pdf) | [Solutions (python)](https://github.com/bartkowiaktomasz/mathematics-for-machine-learning)
-| Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Link](MIT%2018%2006%20-%20Linear%20Algebra)
+| Linear Algebra | MIT 18.06: Linear Algebra | [Course website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Notes](MIT%2018%2006%20-%20Linear%20Algebra/MIT_18_06_Linear_Algebra_notes.pdf)
 
 ## MLOps / DevOps / System Administration
 | Type | Course | Link | Notes/Solutions |  
